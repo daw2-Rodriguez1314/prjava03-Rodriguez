@@ -54,9 +54,9 @@ addWindowListener(this);
 
 // "this" Frame adds "this" object as a WindowEvent listener
 
-setTitle("prjava03-Rodriguez"); // "this" Frame sets title
+setTitle("nova finestra prjava03-Rodriguez"); // "this" Frame sets title
 
-setSize(250, 100); // "this" Frame sets initial size
+setSize(450, 100); // "this" Frame sets initial size
 
 setVisible(true); // "this" Frame shows
 
